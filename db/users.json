@@ -2,11 +2,16 @@
   {
     "id": 1,
     "username": "John",
-    "password": "qwerty"
+    "password": "$2b$07$nY/NQg5GnEytR86EgUduveBmfPtW/fkC3rvbJNm743p2E4FN6iEau"
   },
   {
     "id": 2,
-    "username": "Bekhruz",
-    "password": "qwerty"
+    "username": "Johns",
+    "password": "$2b$07$EqNYco8gz4W0YlY53vt9kOIknnQI4y3wu4.U5t5wQ.PLvE7xF2tUm"
+  },
+  {
+    "id": 3,
+    "username": "Doe",
+    "password": "$2b$07$D.cZ6Ta4UJVrW.HOmrgK8eABGA4r9aYDQEhr4HcjUwGU0HI.bFaYi"
   }
 ]
